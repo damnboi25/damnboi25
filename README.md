@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @damnboi25
+- 👋 Hi, I’m @danielmiel
 - 👀 I’m interested in learning to code.
 - 🌱 I’m currently learning python.
 
